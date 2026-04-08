@@ -101,6 +101,14 @@ Example:
 
 - Test: Hindi
 
+
+Dataset details and preparation steps are provided in:
+
+```
+data/README.md
+```
+
+
 ---
 
 
@@ -126,8 +134,28 @@ Example:
 
 ---
 
+## 🔗 Related Project
+
+This work extends the multimodal deception detection framework developed in:
+
+Multimodal-Deception-Detection Repository
+
+The domain generalization methods implemented in this repository are built on
+**the same dataset and preprocessing pipeline, but focus specifically on improving
+cross-domain robustness and fairness.**
+
+While the previous project focused on multimodal fusion, this repository explores:
+
+- Domain adversarial learning (Gradient Reversal)
+- Contrastive representation learning
+- Multi-objective optimization
+
+Together, these two repositories represent a progressive research pipeline:
+
+**Multimodal Learning → Domain Shift Analysis → Domain Generalization**
 
 
+---
 
 ## 📚 References
 

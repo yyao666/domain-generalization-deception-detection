@@ -18,7 +18,7 @@ The self-collected dataset includes:
 
 ## Privacy and Data Availability
 
-Due to privacy and ethical considerations, the dataset is not publicly released.
+Due to privacy and ethical considerations, the Self-collected multimodal deception dataset is not publicly released.
 
 
 ---
